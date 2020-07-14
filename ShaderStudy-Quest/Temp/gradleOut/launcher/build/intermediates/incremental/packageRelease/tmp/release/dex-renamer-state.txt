@@ -1,0 +1,4 @@
+#Tue Jul 14 12:54:21 EDT 2020
+base.0=C\:\\Users\\v-garyr\\Documents\\RobinsonTech\\VR\\ShaderStudy-Quest\\ShaderStudy-Quest\\ShaderStudy-Quest\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
