@@ -14,6 +14,7 @@ ScriptsOnlyBuild:
     - OVRHeadsetEmulator
     - OVRManager
     - OVRPlayerController
+    - OVRRaycaster
     - OVRSceneSampleController
     - OVRScreenFade
     Unity.RenderPipelines.Core.Runtime.dll:
@@ -48,6 +49,7 @@ ScriptsOnlyBuild:
     - UnityEngine.Rendering.Universal.ForwardRendererData
     - UnityEngine.Rendering.Universal.PostProcessData
     - UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset
+    - UnityEngine.Rendering.Universal.UniversalRenderPipelineEditorResources
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     Unity.ShaderGraph.Editor.dll:
@@ -68,6 +70,8 @@ ScriptsOnlyBuild:
     - UnityEditor.TestTools.TestRunner.TestListCacheData
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
     UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.StandaloneInputModule
     - UnityEngine.UI.Button
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.ContentSizeFitter
@@ -154,6 +158,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11846}
     - Class: 114
+      Script: {instanceID: 12014}
+    - Class: 114
       Script: {instanceID: 12032}
     - Class: 114
       Script: {instanceID: 12178}
@@ -161,6 +167,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12674}
     - Class: 114
       Script: {instanceID: 12756}
+    - Class: 114
+      Script: {instanceID: 12912}
     - Class: 114
       Script: {instanceID: 13058}
     - Class: 114
@@ -219,6 +227,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 15902}
     - Class: 114
       Script: {instanceID: 15910}
+    - Class: 114
+      Script: {instanceID: 15948}
     - Class: 114
       Script: {instanceID: 15974}
     - Class: 114
