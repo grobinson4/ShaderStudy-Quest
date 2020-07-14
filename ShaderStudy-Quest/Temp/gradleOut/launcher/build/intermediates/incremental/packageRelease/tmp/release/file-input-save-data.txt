@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Jul 14 16:05:24 EDT 2020
+#Tue Jul 14 17:06:51 EDT 2020
 60.set=ASSET
 52.set=NATIVE_RESOURCE
 53.base=C\:\\Users\\v-garyr\\Documents\\RobinsonTech\\VR\\ShaderStudy-Quest\\ShaderStudy-Quest\\ShaderStudy-Quest\\Temp\\gradleOut\\launcher\\build\\intermediates\\merged_assets\\release\\out
